@@ -1,0 +1,7 @@
+numpy
+gymnasium
+pyglet<2
+networkx
+
+[test]
+pytest
